@@ -65,24 +65,23 @@ Happy Coding, Everyone! 💪🏽 <br>
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	  <li><b>OS:</b></li>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" ></code>Windows
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code>Android
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>Linux
-  	  <li><b>Browser: </b></li>
-     <code><img width="4%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg"></code>chrome
-     <code><img width="4%" src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-icon.svg"></code>Windows Edge
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></code>Mozilla Firefox
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/opera/opera-icon.svg"></code>Opera
-     <li><b>Code Editor:</b> Visual Studio Code / Sublime Text / Notepad++</li>
-    code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    code><img width="4%" src="sublime-text-logo.svg "></code>
-    code><img width="4%" src="https://cdn.cdnlogo.com/logos/n/57/notepad.svg "></code>
-	  <li><b>To Stay Updated:</b> Dev.to, Medium and Tech YouTube Channels</li>
-    code><img width="4%" src=" "></code>
-    code><img width="4%" src=" "></code>
-	</ul>
+    <ul>
+    <li><b>OS:</b></li>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" ></code>Windows
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code>Android
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>Linux
+    <li><b>Browser: </b></li>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg"></code>chrome
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-icon.svg"></code>Windows Edge
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></code>Mozilla Firefox
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/opera/opera-icon.svg"></code>Opera
+    <li><b>Code Editor:</b></li>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>visualstudio_code
+    <li><b>To Stay Updated:</b></li>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"></code>Medium
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></code>Youtube	
+   <code><img  width="3%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>Linkedin
+    </ul>
 </details>
 
 ---
